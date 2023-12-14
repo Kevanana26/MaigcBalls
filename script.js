@@ -7,5 +7,6 @@ function shakeMagic8Ball(){
     }
     if(!question.trim()){
         alert('Buddy, please enter an actual question that can be answered')
+        return
     }
 }
