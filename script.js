@@ -50,7 +50,7 @@ function shakeMagic8Ball() {
             break
         case 7:
             answer = "Couldn't tell ya"
-            Image = "couldn't-image.jpg"
+            Image = "imgs/couldn't tell ya.gif"
             color = "text-warning"
             break
     }
